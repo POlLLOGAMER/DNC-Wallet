@@ -1,0 +1,6 @@
+{
+  "name": "DNC Wallet",
+  "description": "DIAC NET CHAIN (DNC) Peer-to-Peer Wallet, Mining, and Distributed Economic Client.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
